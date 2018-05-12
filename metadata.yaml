@@ -1,0 +1,42 @@
+_repo: Blanche_35385
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Adams, Sarah Holland
+    alias: Adams, Sarah H.
+    birthdate: 1824
+    deathdate: 1916
+    gutenberg_agent_id: '37651'
+    url: http://www.gutenberg.org/2009/agents/37651
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schubin, Ossip
+    aliases:
+    - Kirschner, Lula
+    - Shubin, Osip
+    - Kirschner, Lola
+    - Kirschner, Aloisia
+    - Schubin, Osip
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '37646'
+    url: http://www.gutenberg.org/2009/agents/37646
+    wikipedia: http://en.wikipedia.org/wiki/Aloisia_Kirschner
+description: ''
+gutenberg_issued: '2011-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35385'
+  lccn: '02030055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Austrian fiction -- Translations into English'
+title: 'Blanche: The Maid of Lille'
+url: http://www.gutenberg.org/ebooks/35385
